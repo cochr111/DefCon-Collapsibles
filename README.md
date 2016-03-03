@@ -1,4 +1,4 @@
-# DefCon-Colllapsibles
+# DefCon-Collapsibles
 
 Made With
 
