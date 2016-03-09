@@ -1,5 +1,9 @@
 # DefCon-Collapsibles
 
+This is a panel dropdown created using Bootstrap 3.3.6. You can add whatever you wish on the inside of the panels. 
+
+There is custom CSS used for coloring the panels and more for coloring the text inside (in this instance) ONE panel (the gray one...)
+
 Made With
 
 https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css
